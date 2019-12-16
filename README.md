@@ -1,1 +1,1 @@
-# DeepDrug
+# DeepDrugThe codes that are used for study entitled "Deep Learning Based Imbalanced Data Classification for Drug Discovery"
