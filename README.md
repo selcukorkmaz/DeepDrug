@@ -18,10 +18,15 @@ HCV inhibitors against hepatitis C.
 ## Training, Validation and Test Sets
 
 All training, validation, and test sets through the Kaggle repository. The data sets can be accessed through the following links:
+
 For AID485314: https://www.kaggle.com/selcukorkmaz/pubchemaid485314
+
 For AID485341: https://www.kaggle.com/selcukorkmaz/pubchemaid485341
+
 For AID504466: https://www.kaggle.com/selcukorkmaz/pubchemaid504466
+
 For AID624202: https://www.kaggle.com/selcukorkmaz/pubchemaid624202
+
 For AID651820: https://www.kaggle.com/selcukorkmaz/pubchemaid651820
 
 Paper: Korkmaz, S. (2020). Deep Learning-Based Imbalanced Data Classification for Drug Discovery. Journal of Chemical Information and Modeling. https://dx.doi.org/10.1021/acs.jcim.9b01162
