@@ -4,7 +4,7 @@ Drug discovery studies have become increasingly expensive and time-consuming pro
 
 ## Data Sets 
 
-AID485314 is a confirmatory qHTS bioassay for inhibitors of DNA polymerase beta, which is a crucial enzyme for the repair system of human cells.
+*AID485314* is a confirmatory qHTS bioassay for inhibitors of DNA polymerase beta, which is a crucial enzyme for the repair system of human cells.
 
 AID485341 is a confirmatory qHTS bioassay for inhibitors of AmpC beta-lactamase. This assay was carried out to discriminate between aggregators and nonaggregators by not adding detergent. 
 
